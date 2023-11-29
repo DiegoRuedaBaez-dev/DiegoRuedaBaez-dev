@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/soydaante_" target="blank"><img src="https://img.shields.io/twitter/follow/soydaante_?logo=twitter&style=for-the-badge" alt="soydaante_" /></a> </p>
 
-- 🔭 I’m currently working on [the podcast "Codex Hunter" and as streamer on Twitch](https://linktr.ee/soydaante)
+- 🔭 I’m currently working on as a freelance graphic designer and a freelance programmer also in [the podcast "Codex Hunter" and as streamer on Twitch](https://linktr.ee/soydaante)
 
 - 🌱 I’m currently learning **and specializing on my Programming Skills**
 
