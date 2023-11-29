@@ -33,8 +33,7 @@
 <a href="https://linkedin.com/in/soydaante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soydaante" height="30" width="40" /></a>
 <a href="https://instagram.com/soydaante__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soydaante__" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/soydaante_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soydaante_" height="30" width="40" /></a>
-<a href="https://discord.gg/@soydaante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@soydaante" height="30" width="40" /></a>
-<a href="/https://linktr.ee/soydaante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://linktr.ee/soydaante" height="30" width="40" /></a>
+<a href="https://discord.gg/soydaante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@soydaante" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
